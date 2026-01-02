@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Aryan Vaghela
 
 # 💫 About Me:
 🎓 I’m currently pursuing B.E. in Information Technology at Ahmedabad Institute of Technology (AIT), Ahmedabad<br><br>🌱 I’m currently learning the MERN Stack (MongoDB, Express.js, React.js, Node.js)<br><br>🛠️ I’m currently working on full-stack web applications using modern technologies<br><br>🤝 I’m looking to collaborate on MERN stack and frontend projects<br><br>🧠 I’m looking for help with advanced backend concepts and system design<br><br>💬 Ask me about React.js, JavaScript, REST APIs, Node.js, Express, MongoDB, JWT Authentication<br><br>🚀 I’ve built multiple projects like a Food Delivery App, Chat App, DocLink, and Wanderlust, which you can find on my GitHub repositories<br><br>⚡ Fun fact: I enjoy turning real-world ideas into functional web applications<br><br>
